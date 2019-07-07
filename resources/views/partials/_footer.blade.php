@@ -14,7 +14,7 @@
           <div class="col-lg-auto col-12" id="footer_menu">
             <a href="#">Domande Frequenti</a>
             <a href="#">Lezione Gratuita</a>
-            <a href="#">Privacy Policy</a>
+            <a href="{{url('privacy-policy')}}">Privacy Policy</a>
             <a href="#">Lavora con noi!</a>
           </div>
           <div class="col-lg-auto col-12">

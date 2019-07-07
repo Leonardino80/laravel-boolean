@@ -11129,6 +11129,10 @@ header nav a:hover {
   cursor: pointer;
 }
 
+footer {
+  background-color: white;
+}
+
 footer img {
   max-width: 250px;
 }
@@ -11139,5 +11143,10 @@ footer #footer_recapiti a {
 
 footer #footer_menu a {
   display: block;
+}
+
+#main_content {
+  padding-top: 20px;
+  padding-bottom: 150px;
 }
 

@@ -1,4 +1,6 @@
 footer{
+  background-color: white;
+  
   img{
     max-width: 250px;
   }
@@ -8,7 +10,7 @@ footer{
       display:block;
     }
   }
-// non si possono mettere insieme come CSS puro
+// non si possono mettere insieme come CSS puro questi 2 id
   #footer_menu{
     a{
       display:block;
