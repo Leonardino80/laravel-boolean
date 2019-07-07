@@ -6,6 +6,6 @@
       <a href="#">Metodo</a>
       <a href="#">Dopo il corso</a>
       <a href="#">Lezione gratuita</a>
-      <a class="btn btn-warning">Iscriviti</a>
+      <a href="#" class="btn btn-warning">Iscriviti</a>
     </nav>
   </header>
