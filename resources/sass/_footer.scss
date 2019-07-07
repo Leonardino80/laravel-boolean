@@ -1,0 +1,17 @@
+footer{
+  img{
+    max-width: 250px;
+  }
+
+  #footer_recapiti{
+    a{
+      display:block;
+    }
+  }
+// non si possono mettere insieme come CSS puro
+  #footer_menu{
+    a{
+      display:block;
+    }
+  }
+}
