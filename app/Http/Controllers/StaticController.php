@@ -13,4 +13,8 @@ class StaticController extends Controller
   public function privacyPolicy(){
     return view('static-pages.privacy-policy');
   }
+
+  public function jobOpportunities(){
+    return view('static-pages.lavora-con-noi');
+  }
 }

@@ -12,5 +12,6 @@
 */
 
 // non si possono avere 2 rotte uguali! ogni rotta la sua funzione!
-Route::get('/', 'StaticController@index');
-Route::get('/privacy-policy','StaticController@privacyPolicy');
+Route::get('/', 'StaticController@index')->name('home');
+Route::get('/privacy-policy','StaticController@privacyPolicy')->name('privacy');
+Route::get('/lavora-con-noi','StaticController@jobOpportunities')->name('job');
